@@ -1,9 +1,3 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# Context-Light-Dark-Mode-
+# React 
+# Context API Light Dark Mode
+Using Context API, the background color and theme of the travel information card are changed with a button. It is designed for educational purposes and can be used for both pages and components. It will be more useful for large-scale pages.
