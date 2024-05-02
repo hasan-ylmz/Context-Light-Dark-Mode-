@@ -43,8 +43,8 @@ You can view a live demo of this project [here](https://context-dark-mode-travel
 
 ## Screenshots
 
-![Light Mode](/screenshots/context-travel-car .png)
-![Dark Mode](/screenshots/context-travel-car2 .png)
+![Light Mode](/screenshots/context-travel-car.png)
+![Dark Mode](/screenshots/context-travel-car2.png)
 
 ## Contribution
 
