@@ -2,6 +2,11 @@
 
 This project demonstrates the implementation of light and dark mode using the Context API. The background color and theme of the travel information card are dynamically changed by toggling a button. It is designed for educational purposes and can be easily integrated into both pages and components. This implementation is particularly useful for large-scale applications where consistent theming is required.
 
+## Screenshots
+
+![Light Mode](/screenshots/context-travel-car.png)
+![Dark Mode](/screenshots/context-travel-car2.png)
+
 ## Features
 
 - Dynamic switching between light and dark mode.
@@ -41,10 +46,7 @@ You can view a live demo of this project [here](https://context-dark-mode-travel
 - React
 - Context API
 
-## Screenshots
 
-![Light Mode](/screenshots/context-travel-car.png)
-![Dark Mode](/screenshots/context-travel-car2.png)
 
 ## Contribution
 
